@@ -1,0 +1,24 @@
+{
+  "name": "gtinoco-project-1c-custom-console-log",
+  "version": "1.0.0",
+  "description": "Custom console log",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/genarot/npm-lib-project-1c-custom-console-log.git"
+  },
+  "keywords": [
+    "nodejs",
+    "custom",
+    "console"
+  ],
+  "author": "Genaro Tinoco <genaro_13@hotmail.es>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/genarot/npm-lib-project-1c-custom-console-log/issues"
+  },
+  "homepage": "https://github.com/genarot/npm-lib-project-1c-custom-console-log#readme"
+}
