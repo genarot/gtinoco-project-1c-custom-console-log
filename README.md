@@ -1,40 +1,40 @@
 # Custom Console Log
 
 This library show different kind of custom messages on browser
-These are the availables functions "ok", "info", "error" and "warning".
+These are the available functions "ok", "info", "error" and "warning".
 
-## Instalation
+## Installation
 
 ```
-npm i custom-console-log
+npm i gtinoco-project-1c-custom-console-log
 ```
 
-## Uso
+## Useo
 
-Para usar el módulo tenemos que importarlo.
+To use the module we must to import it.
 ```javascript
-var m = require('custom-console-log');
+const m = require('gtinoco-project-1c-custom-console-log');
 ```
 ### Confirmation message "ok"
 
 ```javascript
-m.ok('Los datos se han enviado correctamente');
+m.ok('The data has been sent properly');
 ```
 
 ### Information message "info"
 
 ```javascript
-m.info('Los datos se han enviado correctamente');
+m.info('The data has been sent properly');
 ```
 
 ### Warning message "warning"
 
 ```javascript
-m.aviso('Los datos se han enviado correctamente aunque no muy rápido');
+m.warn('The data has been sent properly even though not so fast');
 ```
 
 ### Failure message "error"
 
 ```javascript
-m.error('Los datos NO se han enviado correctamente');
+m.error('The data has not been sent properly!');
 ```
